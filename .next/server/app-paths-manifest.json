@@ -1,0 +1,7 @@
+{
+  "/api/whisper/route": "app/api/whisper/route.js",
+  "/api/voice/route": "app/api/voice/route.js",
+  "/api/whisper/chat/route": "app/api/whisper/chat/route.js",
+  "/page": "app/page.js",
+  "/dashboard/page": "app/dashboard/page.js"
+}
